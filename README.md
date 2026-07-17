@@ -1,7 +1,7 @@
  # Hi 👋, I'm Meet Darbar
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" alt="Coding GIF"/>
 </div>
 
 <h3 align="center">💻 Full Stack Developer | B.Sc IT Student | Tech Enthusiast</h3>
